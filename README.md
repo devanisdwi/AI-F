@@ -1,4 +1,48 @@
-# AI-F
-TUGAS BESAR - KECERDASAN BUATAN F: Klasifikasi Daun Herbal (Daun Seledri dan Daun Sirih)
+<div id="top"></div>
 
-https://drive.google.com/drive/folders/1ugj14WMSaljlTrT9z1PbfUybrsl0Ro2U?usp=sharing
+# MATA KULIAH KECERDASAN BUATAN - 5F
+
+<details>
+  <summary>Daftar Isi</summary>
+  <ol>
+    <li><a href="#usage">Tugas Besar: Klasifikasi Daun Herbal</a></li>
+    <li>
+      <a href="#getting-started">Roadmap Project</a>
+      <ul>
+        <li><a href="#prerequisites">Pekan 1 dan 2</a></li>
+        <li><a href="#installation">Pekan 3</a></li>
+        <li><a href="#installation">Pekan 4</a></li>
+        <li><a href="#installation">Pekan 5</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
+## Tugas Besar: Klasifikasi Daun Herbal
+> **Note:** Repositori ini digunakan sebagai dokumentasi progress pengerjaan tugas besar yang hanya digunakan untuk bahan pembelajaran.
+
+Negara Indonesia memiliki berbagai macam daun herbal yang dapat dimanfaatkan sebagai pengobatan tradsional. Pada studi kasus kali ini, saya berkesempatan untuk melakukan klasifikasi daun herbal yang terdiri dari:
+- Label 1: Daun Seledri
+- Label 2: Daun Sirih
+
+<p align="right">(<a href="#top">kembali ke atas</a>)</p>
+
+## Roadmap Project
+### Pekan 1 dan 2
+ * [x] Mengambil gambar daun seledri
+ * [x] Mengambil gambar daun sirih
+ * [x] Mengedit gambar sesuai dengan ketentuan
+
+### Pekan 3
+ * [ ] Membuat metadata
+ * [x] Menata repositori github
+
+### Pekan 4
+ * [ ] ...
+ * [ ] ...
+
+### Pekan 5
+ * [ ] ...
+ * [ ] ...
+
+<p align="right">(<a href="#top">kembali ke atas</a>)</p>
