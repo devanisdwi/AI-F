@@ -19,6 +19,16 @@
   </ol>
 </details>
 
+## Directory Tree
+.
+├── ...
+├── dataset
+│   ├── sirih          
+│   └── seledri               
+├── data preprocessing
+├── ...
+└── ...
+
 ## Tugas Besar: Klasifikasi Daun Herbal
 > **Note:** Repositori ini digunakan sebagai dokumentasi progress pengerjaan tugas besar yang hanya digunakan untuk bahan pembelajaran.
 
