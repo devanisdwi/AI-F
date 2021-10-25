@@ -5,14 +5,15 @@
 <details>
   <summary>Daftar Isi</summary>
   <ol>
-    <li><a href="#usage">Tugas Besar: Klasifikasi Daun Herbal</a></li>
+    <li><a href="https://github.com/devanisdwi/AI-F#tugas-besar-klasifikasi-daun-herbal
+">Tugas Besar: Klasifikasi Daun Herbal</a></li>
     <li>
-      <a href="#getting-started">Roadmap Project</a>
+      <a href="https://github.com/devanisdwi/AI-F#roadmap-project">Roadmap Project</a>
       <ul>
-        <li><a href="#prerequisites">Pekan 1 dan 2</a></li>
-        <li><a href="#installation">Pekan 3</a></li>
-        <li><a href="#installation">Pekan 4</a></li>
-        <li><a href="#installation">Pekan 5</a></li>
+        <li><a href="https://github.com/devanisdwi/AI-F#pekan-1-dan-2">Pekan 1 dan 2</a></li>
+        <li><a href="https://github.com/devanisdwi/AI-F#pekan-3">Pekan 3</a></li>
+        <li><a href="https://github.com/devanisdwi/AI-F#pekan-4">Pekan 4</a></li>
+        <li><a href="https://github.com/devanisdwi/AI-F#pekan-5">Pekan 5</a></li>
       </ul>
     </li>
   </ol>
