@@ -35,11 +35,11 @@ Negara Indonesia memiliki berbagai macam daun herbal yang dapat dimanfaatkan seb
  * [x] Mengedit gambar sesuai dengan ketentuan
 
 ### Pekan 3
- * [ ] Membuat metadata
+ * [x] Membuat metadata
  * [x] Menata repositori github
 
 ### Pekan 4
- * [ ] ...
+ * [ ] Melakukan data preprocessing
  * [ ] ...
 
 ### Pekan 5
