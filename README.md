@@ -46,8 +46,9 @@ Negara Indonesia memiliki berbagai macam daun herbal yang dapat dimanfaatkan seb
  * [x] Menata repositori github
 
 ### Pekan 4
- * [ ] Melakukan proses image preprocessing
- * [ ] ...
+ * [x] Melakukan proses image preprocessing (rescale)
+ * [x] Minimalisir bayangan pada gambar
+ * [x] Mengganti background gambar dengan warna putih
 
 ### Pekan 5
  * [ ] Membuat model klasifikasi gambar menggunakan metode Artificial Neural Network
